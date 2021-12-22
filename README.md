@@ -22,6 +22,4 @@ Skills: JS / HTML / CSS / PHP/ Wordpress / SQL
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aminulislamfahim1)  
 
-![GitHub metrics](https://metrics.lecoq.io/aminulislamfahim1)  
-
 ![Profile views](https://gpvc.arturio.dev/aminulislamfahim1)  
