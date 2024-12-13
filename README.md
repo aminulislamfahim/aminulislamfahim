@@ -1,11 +1,11 @@
-![Web developer](https://avatars.githubusercontent.com/u/37269154?s=400&u=19228a9cb1be53b037a3bc721b4a8e3effeffb0f&v=4)
+![Penetration Tester](https://avatars.githubusercontent.com/u/37269154?s=400&u=19228a9cb1be53b037a3bc721b4a8e3effeffb0f&v=4)
 ### Hi there 👋, my name is Md Aminul Islam Fahim
 #### Web developer
 
 
-I'm a student in the department of B.Sc in Computer Science and Engineering at the Bangladesh University of business and technology.
+I'm a student in the department of B.Sc in Computer Science and Engineering at the Bangladesh University of Business and Technology.
 
-Skills: JS / HTML / CSS / PHP/ Wordpress / SQL
+Skills: Penetration Tester / SQL
 
 - 🔭 I’m currently working on Dial2Support 
 
