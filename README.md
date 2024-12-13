@@ -51,8 +51,7 @@ Feb 2018–Expected Jan 2025
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/aifaminul](https://linkedin.com/in/aifaminul)  
-- **GitHub:** [github.com/aminulislamfahim1](https://github.com/aminulislamfahim1)  
-- **Facebook:** [facebook.com/my.aminul](https://www.facebook.com/my.aminul)  
+- **GitHub:** [github.com/aminulislamfahim1](https://github.com/aminulislamfahim1)   
 - **Email:** aminulislamfahim1@gmail.com  
 
 ---
