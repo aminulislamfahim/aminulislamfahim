@@ -68,6 +68,4 @@ Feb 2018–Expected Jan 2025
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminulislamfahim&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aminulislamfahim)  
 
-![Profile views](https://gpvc.arturio.dev/aminulislamfahim)  
