@@ -40,10 +40,14 @@ OWASP, NIST SP 800-61 (Incident Response), ISO 27001
 - Demonstrated forensic evidence collection from compromised host (Event Logs, Task Manager snapshots, malware binary preservation).
 
 ### ⚙️ Custom Exploitation Framework  
-... (আগের লেখা রাখো, কিন্তু এখানে আরো প্রফেশনাল করো)
+ -Developed a Bash-based scripting tool automating the discovery and exploitation of web vulnerabilities in Cpanel.
+- Reduced testing time by 40%-50% by optimizing scanning and attack processes.
+- Integrated the framework with Burp Suite for real-time analysis and reporting.
 
 ### 🏆 Capture the Flag (CTF) Achievements  
-... (আগের লেখা ঠিক আছে)
+- Solved over 100 challenges on PicoCTF, Hack The Box, and TryHackMe.
+- Specialized in reverse engineering, cryptography, and web exploitation.
+- Improved team rankings and contributed to community-based CTF learning initiatives.
 
 ---
 
