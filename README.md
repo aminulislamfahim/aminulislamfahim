@@ -3,9 +3,10 @@
 ### Cybersecurity Professional | Penetration Tester | Incident Response Analyst
 
 
-🎯 Passionate about ethical hacking, secure development, and vulnerability analysis.  
-🔍 Experienced in penetration testing with tools like Burp Suite, Metasploit, and Nmap.  
-💡 Continuous learner, solving CTF challenges and creating automation tools to improve testing efficiency.  
+🎯 Hands-on experience in penetration testing, vulnerability assessment, and incident response.  
+🔍 Authored a real-world ransomware attack case study for a healthcare facility, resulting in permanent data loss due to RSA encryption and backup failure.  
+💡 Skilled in translating technical findings into executive-level remediation plans (offline backup, EDR, SIEM, network segmentation).  
+📄 Public case study: [Healthcare Ransomware IR Report](https://github.com/aminulislamfahim/ransomware-ir-case-study-healthcare)  
 
 ---
 
