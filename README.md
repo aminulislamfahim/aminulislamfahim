@@ -31,7 +31,7 @@
 ## 🎓 Education
 **Bachelor of Science in Computer Science and Engineering**  
 Bangladesh University of Business and Technology (BUBT)  
-Feb 2018–Expected Jan 2025  
+Feb 2018 to Dec 2024  
 
 ---
 
