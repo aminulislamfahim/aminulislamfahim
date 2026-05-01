@@ -1,7 +1,6 @@
 
-# Hi there 👋, I'm Md Aminul Islam Fahim
-
-### Aspiring Penetration Tester | Cybersecurity Enthusiast
+# Md Aminul Islam Fahim
+### Cybersecurity Professional | Penetration Tester | Incident Response Analyst
 
 
 🎯 Passionate about ethical hacking, secure development, and vulnerability analysis.  
