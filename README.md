@@ -76,7 +76,7 @@ Feb 2018 to Dec 2024
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/aifaminul](https://linkedin.com/in/aifaminul)  
-- **GitHub:** [github.com/aminulislamfahim1](https://github.com/aminulislamfahim1)   
+- **GitHub:** [github.com/aminulislamfahim1](https://github.com/aminulislamfahim)   
 - **Email:** aminulislamfahim1@gmail.com  
 
 --- 
