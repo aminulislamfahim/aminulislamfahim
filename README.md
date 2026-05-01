@@ -80,13 +80,3 @@ Feb 2018 to Dec 2024
 - **Email:** aminulislamfahim1@gmail.com  
 
 --- 
-
-<!-- GitHub Stats Card -->
-<a href="https://github.com/aminulislamfahim">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aminulislamfahim&show_icons=true&theme=radical&count_private=true" />
-</a>
-
-<!-- Top Languages Card -->
-<a href="https://github.com/aminulislamfahim">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislamfahim&layout=compact&theme=radical&langs_count=8" />
-</a>
