@@ -76,10 +76,17 @@ Feb 2018 to Dec 2024
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/aifaminul](https://linkedin.com/in/aifaminul)  
-- **GitHub:** [github.com/aminulislamfahim1](https://github.com/aminulislamfahim)   
+- **GitHub:** [github.com/aminulislamfahim](https://github.com/aminulislamfahim)   
 - **Email:** aminulislamfahim1@gmail.com  
 
 --- 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminulislamfahim&show_icons=true&count_private=true)](https://github.com/aminulislamfahim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislamfahim&layout=compact)](https://github.com/aminulislamfahim)
+<!-- GitHub Stats Card -->
+<a href="https://github.com/aminulislamfahim">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aminulislamfahim&show_icons=true&theme=radical&count_private=true" />
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/aminulislamfahim">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminulislamfahim&layout=compact&theme=radical&langs_count=8" />
+</a>
