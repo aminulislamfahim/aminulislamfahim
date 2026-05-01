@@ -10,12 +10,22 @@
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python, Bash, PowerShell, SQL  
-- **Web Security:** Burp Suite, OWASP ZAP, Nmap  
-- **System Tools:** Metasploit, Wireshark, Nessus, OpenVAS  
-- **Frameworks:** OWASP, MITRE ATT&CK, NIST  
-- **Soft Skills:** Problem-Solving, Attention to Detail, Teamwork  
+## 🛠️ Technical Skills
+
+**🔐 Offensive Security**  
+Burp Suite, Metasploit, Nmap, OWASP ZAP, OpenVAS, Nessus
+
+**🛡️ Incident Response & Forensics**  
+Ransomware Analysis (RSA encryption), Forensic Evidence Collection (Event Logs, memory artifacts), Malware Binary Handling, Backup Policy Review (3-2-1-1 rule)
+
+**📊 Security Operations**  
+SIEM (Splunk, Wazuh concepts), EDR (Endpoint Detection & Response), Network Segmentation, MITRE ATT&CK (T1486 – Data Encrypted for Impact)
+
+**💻 Programming & Scripting**  
+Python, Bash, PowerShell, SQL
+
+**📚 Frameworks & Standards**  
+OWASP, NIST SP 800-61 (Incident Response), ISO 27001 
 
 ---
 
