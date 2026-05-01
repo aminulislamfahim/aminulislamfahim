@@ -30,11 +30,20 @@ OWASP, NIST SP 800-61 (Incident Response), ISO 27001
 ---
 
 ## 🌟 Key Projects
-- **Custom Exploitation Framework:**  
-   Developed a Python-based tool automating the discovery and exploitation of web vulnerabilities, reducing testing time by 30%. Integrated with Burp Suite for real-time analysis.  
 
-- **Capture the Flag (CTF) Achievements:**  
-   Solved 100+ challenges on PicoCTF, Hack The Box, and TryHackMe, specializing in reverse engineering, cryptography, and web exploitation.
+### 📄 Healthcare Ransomware Incident Response Case Study  
+**Repo:** [github.com/aminulislamfahim/ransomware-ir-case-study-healthcare](https://github.com/aminulislamfahim/ransomware-ir-case-study-healthcare)
+
+- Authored a complete IR report for a 200+ endpoint hospital facing a bear26.exe ransomware attack that caused **permanent data loss** across 7 core clinical systems.
+- Identified architectural failures: Windows Server 2012 (EOL), no antivirus, no network segmentation, Windows trusted authentication alone, and **overwrite-only backup** that destroyed the last clean copy.
+- Provided **3-tier remediation roadmap** (Immediate / 3–6 months / Long-term) including offline immutable backups (3-2-1-1), EDR deployment, SIEM (Splunk/Wazuh), and vendor-side software changes (separate app login, versioned backups).
+- Demonstrated forensic evidence collection from compromised host (Event Logs, Task Manager snapshots, malware binary preservation).
+
+### ⚙️ Custom Exploitation Framework  
+... (আগের লেখা রাখো, কিন্তু এখানে আরো প্রফেশনাল করো)
+
+### 🏆 Capture the Flag (CTF) Achievements  
+... (আগের লেখা ঠিক আছে)
 
 ---
 
