@@ -42,10 +42,10 @@ OWASP, NIST SP 800-61 (Incident Response), ISO 27001
 ### ⚙️ cPanel Security Audit Framework/ Scanner
 **Repo:** [https://github.com/aminulislamfahim/cpanel-malware-scanner.git](https://github.com/aminulislamfahim/cpanel-malware-scanner.git)
 
- -Developed a Bash-based security toolkit to assist administrators in auditing WordPress hosting environments and identifying suspicious filesystem artifacts cross WHM/cPanel servers.
-- Automated large-scale WordPress inventory and audit workflows, reducing repetitive administrative effort and improving the consistency of security reviews.
+  -Developed a Bash-based security toolkit to assist administrators in auditing WordPress hosting environments and identifying suspicious filesystem artifacts cross WHM/cPanel servers.
+  - Automated large-scale WordPress inventory and audit workflows, reducing repetitive administrative effort and improving the consistency of security reviews.
 
-- Designed a configurable architecture with signature and whitelist support, enabling scalable security assessments
+  - Designed a configurable architecture with signature and whitelist support, enabling scalable security assessments
 and streamlined incident response workflows
 
 ### 🏆 Capture the Flag (CTF) Achievements  
