@@ -39,10 +39,14 @@ OWASP, NIST SP 800-61 (Incident Response), ISO 27001
 - Provided **3-tier remediation roadmap** (Immediate / 3–6 months / Long-term) including offline immutable backups (3-2-1-1), EDR deployment, SIEM (Splunk/Wazuh), and vendor-side software changes (separate app login, versioned backups).
 - Demonstrated forensic evidence collection from compromised host (Event Logs, Task Manager snapshots, malware binary preservation).
 
-### ⚙️ Custom Exploitation Framework  
- -Developed a Bash-based scripting tool automating the discovery and exploitation of web vulnerabilities in Cpanel.
-- Reduced testing time by 40%-50% by optimizing scanning and attack processes.
-- Integrated the framework with Burp Suite for real-time analysis and reporting.
+### ⚙️ cPanel Security Audit Framework/ Scanner
+**Repo:** [https://github.com/aminulislamfahim/cpanel-malware-scanner.git](https://github.com/aminulislamfahim/cpanel-malware-scanner.git)
+
+ -Developed a Bash-based security toolkit to assist administrators in auditing WordPress hosting environments and identifying suspicious filesystem artifacts cross WHM/cPanel servers.
+- Automated large-scale WordPress inventory and audit workflows, reducing repetitive administrative effort and improving the consistency of security reviews.
+
+- Designed a configurable architecture with signature and whitelist support, enabling scalable security assessments
+and streamlined incident response workflows
 
 ### 🏆 Capture the Flag (CTF) Achievements  
 - Solved over 100 challenges on PicoCTF, Hack The Box, and TryHackMe.
